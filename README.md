@@ -30,3 +30,5 @@ If you want to view, run, or modify the Python code yourself:
 ```bash
 git clone https://github.com/ASR181/Oculus-Gesture-Mouse.git
 cd Oculus-Gesture-Mouse
+
+**Developed by Abdullah Alotaibi**
